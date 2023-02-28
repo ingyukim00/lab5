@@ -1,0 +1,14 @@
+html {
+    color: #fff;
+    background-color: #000000;
+}
+
+.heading1 {
+    color: #ffc300;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navigation {
+    background-color: #ffc300;
+    text-align: center;
+}
